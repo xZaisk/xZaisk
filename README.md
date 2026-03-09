@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 <img width="374" height="374" alt="image" src="https://github.com/user-attachments/assets/204bcd4a-4c54-478e-b1ee-edc47a234439" />
 
 
-## Yo.. whats poppin'? 
